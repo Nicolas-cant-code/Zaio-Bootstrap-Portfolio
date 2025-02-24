@@ -19,14 +19,15 @@
 /*
  * Base structure
  */
-body {
-  
+.scrolling {
+  background-color: black;
+  opacity: 85%;
+  transition: all 0.5s;
 }
 
 .cover-container {
   max-width: 42em;
 }
-
 
 /*
  * Header
